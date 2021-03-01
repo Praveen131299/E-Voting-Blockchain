@@ -1,2 +1,2 @@
 # E-Voting-Blockchain
-A Dapp created using Ethereum Blockchain and a smart contract written using Solidity. 
+A Smart Contract created using Ethereum Blockchain, written in Solidity. 
